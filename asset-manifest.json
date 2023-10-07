@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drag_and_drop_todo/static/css/main.d97c9779.css",
+    "main.js": "/drag_and_drop_todo/static/js/main.7f644455.js",
+    "static/js/787.a10fdfbb.chunk.js": "/drag_and_drop_todo/static/js/787.a10fdfbb.chunk.js",
+    "index.html": "/drag_and_drop_todo/index.html",
+    "main.d97c9779.css.map": "/drag_and_drop_todo/static/css/main.d97c9779.css.map",
+    "main.7f644455.js.map": "/drag_and_drop_todo/static/js/main.7f644455.js.map",
+    "787.a10fdfbb.chunk.js.map": "/drag_and_drop_todo/static/js/787.a10fdfbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d97c9779.css",
+    "static/js/main.7f644455.js"
+  ]
+}
