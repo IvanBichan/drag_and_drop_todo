@@ -1,5 +1,6 @@
 {
   "name": "drag_and_drop_todo",
+  "homepage":"https://IvanBichan.github.io/drag_and_drop_todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
